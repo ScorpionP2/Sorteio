@@ -36,5 +36,7 @@ public class MainActivity extends AppCompatActivity
         int random = gerador.nextInt((fina - inicial) + 1) + inicial;
         TextViewResultado.setText(Integer.toString(random));
 
+        //DEMORO MAS DEU CERTO
+
     }
 }
